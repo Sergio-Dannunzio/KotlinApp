@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Netfilmx</string>
+    <string name="title_popular_movies">Popular Movies</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="similar_movies">Similar Movies</string>
+    <string name="error_message">There was an error loading the movies</string>
+    <string name="retry">Retry</string>
+</resources>

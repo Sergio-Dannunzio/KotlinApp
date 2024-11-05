@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Netfilmx</string>
+    <string name="title_popular_movies">Peliculas Populares</string>
+    <string name="movie_poster">Póster de la Película</string>
+    <string name="similar_movies">Peliculas Similares</string>
+    <string name="error_message">Hubo un error al cargar las películas</string>
+    <string name="retry">Reintentar</string>
+</resources>
